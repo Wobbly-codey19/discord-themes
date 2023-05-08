@@ -33,11 +33,11 @@
 /* https://leafyluigi.github.io/discord-themes/pyrite/var-examples.html */
 :root {
   /* URL must be HTTPS and a direct link to the image. You can have a custom background image for the User Popout and the User Modals. */
-  --background-image: url(https://leafyluigi.github.io/images/Synthscape%20by%20AxiomDesign.png);
+  --background-image: url(https://c4.wallpaperflare.com/wallpaper/268/899/625/video-game-undertale-sans-undertale-wallpaper-preview.jpg);
   --user-modal-image: var(--background-image);
   --user-popout-image: var(--background-image);
   /* Home icon is for the little button in the top left. */
-  --home-icon: url(https://leafyluigi.github.io/images/Sunset%20Nature%2024%20by%20Bouzid27.png);
+  --home-icon: url(https://media.tenor.com/OeRKUdbjdRgAAAAC/dusttale-sans.gif);
 
   /* Image attachment can be "fixed", "scroll" or "local" */
   /* scroll/local attaches the background to the modal completely while fixed keeps it in line with the background */
@@ -53,10 +53,10 @@
   /* Secondary is an accent colour of sorts. It's not used as often as Primary. It should be a shade or two lighter or darker compared to Primary. */
   /* Hover is a secondary accent colour of sorts and is often used when hovering over something. Like Secondary, it should be a shade or two lighter or darker compared to Primary. */
   /* Tooltip is used for tooltips. It can whatever colour you wish. */
-  --primary-color: #FF6F00;
-  --secondary-color: #E06100;
-  --hover-color: #FF801F;
-  --tooltip-color: #B85000;
+  --primary-color: #4d5bff;
+  --secondary-color: #7f93f5;
+  --hover-color: #bfc3d6;
+  --tooltip-color: #495073;
   /* These colours are used for statues and other coloured things. Ignoring Green they default to Discord's HSL though converted to Hex. */
   /* Green's default here is the old green. The current green is #3ba55d */
   --green-color: #43b581;
